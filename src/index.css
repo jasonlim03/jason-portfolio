@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+button{
+  font-family: "ArialNova-Light";
+  font-size: 1.2rem;
+  letter-spacing: 0.1rem;
+}
+
+p{
+  font-family: "ArialNova-Light";
+  color: white;
+  font-size: 1rem;
+}
+
+h2{
+  font-family: "ArialNova-Bold";
+  color: white;
+  text-align: center;
+  font-size: 1.3rem;
+}
+h3{
+  font-family: "ArialNova-Light";
+  color: white;
+  text-align: center;
+  font-size: 1.8rem;
+  z-index: 1;
+}
+
+h4{
+  font-family: "ArialNova-Light";
+  color: white;
+  font-size: 1.2rem;
+}
+
+h5{
+  font-family: "ArialNova-Light";
+  color: white;
+
+}
+

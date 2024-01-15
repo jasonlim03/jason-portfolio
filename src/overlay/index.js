@@ -1,0 +1,10 @@
+import _Page1 from "./page1";
+import _Page4 from "./page4";
+import _Page5 from "./page5";
+import _Page6 from "./page6";
+import _Page7 from "./page7";
+export const Page1 = _Page1;
+export const Page4 = _Page4;
+export const Page5 = _Page5;
+export const Page6 = _Page6;
+export const Page7 = _Page7;
